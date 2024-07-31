@@ -1,0 +1,12 @@
+
+
+.navbar-collapse {
+  background-color: #f8f8f8; /* distinguish the menu background */
+}
+
+/* Style for the sections */
+.section {
+  background-color: #e0e0e0; /* gray background for each section */
+  padding: 20px;
+  margin-bottom: 20px;
+}
